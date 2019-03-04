@@ -1,6 +1,6 @@
 # Phonetics Quiz
 
-An education game designed to be used in the classrooms on a large touch screen monitor
+An educational game designed to be used in classrooms on large touchscreen monitors
 
 ![Screenshot](screenshot.png "Logo Title Text 1")
 
